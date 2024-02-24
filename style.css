@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.content-img{
+    display: inline-block;
+    height: 40%;
+    width: 40%;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+
+}
+
+.nav-text{
+    margin-top: 10%;
+    /* margin-left: 10%; */
+}
+
+.nav-text a{
+    padding-left: 10%;
+
+}
+
+.navtext{
+    font-weight: bold;
+    font-size: medium;
+}
+
+.sendbtn{
+background-color: rgb(249,184,34);
+/* color: black; */
+border-radius: 50px;
+outline: none;
+height: 50px;
+width: 150px;
+/* padding-left: 20%; */
+/* display: flex; */
+}
+
+.container{
+    font-weight: 700;
+}
+
+.buttonlogin{
+    color: black;
+background-color: white;
+    border-radius: 50px;
+outline: none;
+height: 50px;
+width: 150px;
+}
+
+.buttonsign{
+    color: white;
+
+background-color: rgb(0,48,135);
+    border-radius: 50px;
+    outline: none;
+    height: 50px;
+    width: 150px;
+    /* padding-right: 20px; */
+    /* margin: 0px 0px 40px 30px; */
+}
+
+.down{
+    margin-left: 20%;
+}
+
+.phone img{
+    margin-top: 70px ;
+    margin-left: 90px;
+    width: 50%;
+}
+.phone h2{
+    margin-top: 130px;
+    width: 30%;
+}
+
+.phone  p{
+    height: auto;
+    width: 50%;
+}
+
+.phone a{
+    text-decoration: none;
+}
+
+.middle-content{
+    margin-top: 5%;
+    margin-left: -120px;
+}
+
+
+.shopping{
+    margin-top: 10%;
+}
+.shopping img{
+    height: auto;
+width: 180%;
+margin-left: 40%
+/* position: absolute; */
+}
+
+
+.phoneQR{
+    margin-top: 10%;
+    height: auto;
+    width: 90%;
+/* margin-left: 0% */
+
+}
+
+.phoneQR h1,h6{
+    margin-left: 40%;
+} 
+
+.href{
+    margin-left: 40%;
+
+}
+
+/* .phoneQR h6,h1,a{
+    margin-top: -10%;
+margin-left: 30%
+
+} */
+
+
+.pizza{
+    margin-top: 10%;
+}
+.pizza img{
+    /* margin-top: ; */
+    height: auto;
+width: 220%;
+margin-left: 40%}
+
+.world{
+    margin-top: 10%;
+}
+.world img{
+    /* margin-top: ; */
+    height: auto;
+/* width: 290%; */
+margin-left: 40%}
+
+.Main{
+    margin-top: 10%;
+}
+.Main img{
+    /* margin-top: ; */
+    height: auto;
+/* width: 290%; */
+margin-left: 40%}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footerhref a{
+    text-decoration: none;
+    color: black;
+    padding: 0 0 0 6px;
+}
+
