@@ -158,7 +158,47 @@ margin-left: 40%}
 
 
 
+.main {
+    height: auto;
+    background-position: bottom;
+    background-size: cover;
+   
+    
+}
+.main h2{
+    font-size: 100px;
+    width: 800px;
+    font-weight: 500;
+    color: white;
 
+}
+.main-left {
+    width: 130px;
+
+}
+
+.main-left img{
+    padding-top: 50px!important;
+}
+.main-right {
+    width: 356px;
+    padding: 0px 12px 0px 32px ;
+}
+#numer {
+    width: 309px;
+    padding: 20px 12px 18px 35px !important;
+    margin: 10px 0;
+}
+.send-btn {
+    padding: 13px 24px;
+    border-radius: 30px;
+    background: #F9B822;
+    border: none;
+
+}
+.main-right-p {
+    font-weight: 400 !important;
+}
 
 
 
@@ -177,3 +217,7 @@ margin-left: 40%}
     padding: 0 0 0 6px;
 }
 
+.footer img{
+    height: auto;
+    width: 20px;
+}
